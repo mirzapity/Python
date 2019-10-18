@@ -1,0 +1,2 @@
+nombre = 'mirza'
+print (nombre)
